@@ -1,2 +1,2 @@
 # wallet-github-actions
-Github Actions
+Wallet Github Actions
