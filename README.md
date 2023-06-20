@@ -1,2 +1,2 @@
-# onekey-github-actions
+# wallet-github-actions
 Github Actions
